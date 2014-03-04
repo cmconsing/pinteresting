@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
 gem 'devise', '~> 3.2.3'
 gem 'bcrypt', "~> 3.1.7"
+gem 'paperclip', '~> 3.0'
 
 group :development, :test do
 	gem 'sqlite3'
